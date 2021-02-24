@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string-array name="ConutryArray">
+        <item>India</item>
+        <item>Chaina</item>
+        <item>Canada</item>
+        <item>Us</item>
+        <item>UK</item>
+        <item>Germany</item>
+        <item>Peris</item>
+    </string-array>
+</resources>
